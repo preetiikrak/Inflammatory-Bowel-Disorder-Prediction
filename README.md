@@ -40,8 +40,8 @@ This notebook performs the following tasks:
 ## Results
 
 The model successfully predicted IBD status with the following performance:
-- **Accuracy**: _[insert accuracy]_
-- **AUC**: _[insert AUC]_
+- **Accuracy**: 0.946 
+- **AUC**: 0.986
 
 ## Usage
 
